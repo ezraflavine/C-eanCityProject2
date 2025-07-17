@@ -3,8 +3,8 @@
 **Project Name:** CleanCity - Waste Pickup Scheduler  
 **Document ID:** CleanCity-TEST PLAN  
 **Version:** 1.0  
-**Date:** 30/06/2025  
-**Prepared by:** Idah Makena, Pauline Anne Anyango, Tekra Gatwiri  
+**Date:** 3/07/2025  
+**Prepared by:** Flavine Ezra
 
 ---
 
@@ -235,7 +235,7 @@ The test plan outlines the strategy for validating the CleanCity waste managemen
 
 | Role                   |     Name      | Signoff
 |---------------         |------------   |
-| QA Lead                |  Idah Makena  |Approves the test plan, allocates resources
+| QA Lead                |  Flavine Ezra  |Approves the test plan, allocates resources
 |                                        |Oversees project timelines and coordination
-|QA Automation Engineer  |  Tekra Gatwiri|Writes and executes test cases, logs defects
-|QA Analyst              | Anne Anyango  |Creates test plan, manages test execution
+|QA Automation Engineer  |      -         |Writes and executes test cases, logs defects
+|QA Analyst              |       -        |Creates test plan, manages test execution
